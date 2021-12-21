@@ -1,0 +1,504 @@
+,title,desc
+1_1,Feedback Prize - Evaluating Student Writing,Analyze argumentative writing elements from students grade 6-12  
+1_2,Tabular Playground Series - Dec 2021,Practice your ML skills on this approachable dataset! 
+1_3,TensorFlow - Help Protect the Great Barrier Reef ,Detect crown-of-thorns starfish in underwater image data 
+1_4,Santa 2021 - The Merry Movie Montage,Optimize television programming for the winter season 
+1_5,Jigsaw Rate Severity of Toxic Comments   ,Rank relative ratings of toxicity between comments 
+1_6,G-Research Crypto Forecasting ,Use your ML expertise to predict real crypto market data 
+1_7,Tabular Playground Series - Nov 2021,Practice your ML skills on this approachable dataset! 
+1_8,Sartorius - Cell Instance Segmentation,Detect single neuronal cells in microscopy images 
+1_9,2021 Kaggle Machine Learning & Data Science Survey,The most comprehensive dataset available on the state of ML and data science 
+1_10,Store Sales - Time Series Forecasting,Use machine learning to predict grocery sales 
+1_11,Tabular Playground Series - Oct 2021,Practice your ML skills on this approachable dataset! 
+1_12,NFL Big Data Bowl 2022,Help evaluate special teams performance 
+1_13,PetFinder.my - Pawpularity Contest,Predict the popularity of shelter pet photos 
+1_14,Google Brain - Ventilator Pressure Prediction,"Simulate a ventilator connected to a sedated patient's lung
+ "
+1_15,Wikipedia - Image/Caption Matching,Retrieve captions based on images 
+1_16,Tabular Playground Series - Sep 2021,Practice your ML skills on this approachable dataset! 
+1_17,Lux AI,Gather the most resources and survive the night! 
+1_18,chaii - Hindi and Tamil Question Answering,Identify the answer to questions found in Indian language passages 
+1_19,Google Landmark Retrieval 2021,"Given an image, can you find all of the same landmarks in a dataset? "
+1_20,Google Landmark Recognition 2021,"Label famous, and not-so-famous, landmarks in images "
+2_1,NFL Health & Safety - Helmet Assignment,Segment and label helmets in video footage 
+2_2,LearnPlatform COVID-19 Impact on Digital Learning,Use digital learning data to analyze the impact of COVID-19 on student learning 
+2_3,Tabular Playground Series - Aug 2021,Practice your ML skills on this approachable dataset! 
+2_4,RSNA-MICCAI Brain Tumor Radiogenomic Classification,Predict the status of a genetic biomarker important for brain cancer treatment 
+2_5,Tabular Playground Series - Jul 2021,Practice your ML skills on this approachable dataset! 
+2_6,G2Net Gravitational Wave Detection,Find gravitational wave signals from binary black hole collisions 
+2_7,Optiver Realized Volatility Prediction,Apply your data science skills to make financial markets better 
+2_8,MLB Player Digital Engagement Forecasting,Predict fan engagement with baseball player digital content 
+2_9,Tabular Playground Series - Jun 2021,Practice your ML skills on this approachable dataset! 
+2_10,SIIM-FISABIO-RSNA COVID-19 Detection,Identify and localize COVID-19 abnormalities on chest radiographs 
+2_11,Google Smartphone Decimeter Challenge,Improve high precision GNSS positioning and navigation accuracy on smartphones 
+2_12,SETI Breakthrough Listen - E.T. Signal Search,Find extraterrestrial signals in data from deep space   
+2_13,CommonLit Readability Prize,Rate the complexity of literary passages for grades 3-12 classroom use 
+2_14,Tabular Playground Series - May 2021,Practice your ML skills on this approachable dataset! 
+2_15,BirdCLEF 2021 - Birdcall Identification,"Identify bird calls in soundscape recordings
+ "
+2_16,Tabular Playground Series - Apr 2021,Synthanic - You're going to need a bigger boat 
+2_17,Coleridge Initiative - Show US the Data ,Discover how data is used for the public good 
+2_18,Plant Pathology 2021 - FGVC8 ,Identify the category of foliar diseases in apple trees 
+2_19,Hotel-ID to Combat Human Trafficking 2021 - FGVC8,Recognizing hotels to aid Human trafficking investigations 
+2_20,iWildcam 2021 - FGVC8,Count the number of animals of each species present in a sequence of images 
+3_1,Herbarium 2021 - Half-Earth Challenge - FGVC8,"Identify plant species of the Americas, Oceania and the Pacific from herbarium specimens "
+3_2,Shopee - Price Match Guarantee,Determine if two products are the same by their images 
+3_3,Bristol-Myers Squibb – Molecular Translation,Can you translate chemical images to text? 
+3_4,Tabular Playground Series - Mar 2021,Practice your ML skills on this approachable dataset! 
+3_5,March Machine Learning Mania 2021 - NCAAM - Spread,Predict the margin of victory in the 2021 men's tournament 
+3_6,March Machine Learning Mania 2021 - NCAAW - Spread,Predict the margin of victory in the 2021 women's tournament 
+3_7,March Machine Learning Mania 2021 - NCAAW,Predict the 2021 NCAAW Basketball Tournament 
+3_8,March Machine Learning Mania 2021 - NCAAM,Predict the 2021 NCAAM Basketball Tournament 
+3_9,Hash Code 2021 - Traffic Signaling,Optimize city traffic in this extension of the 2021 Hash Code qualifier 
+3_10,Tabular Playground Series - Feb 2021,Practice your ML skills on this approachable dataset! 
+3_11,Indoor Location & Navigation,Identify the position of a smartphone in a shopping mall 
+3_12,Human Protein Atlas - Single Cell Classification,Find individual human cell differences in microscope images 
+3_13,Hungry Geese,Don't. Stop. Eating. 
+3_14,Tabular Playground Series - Jan 2021,Practice your ML regression skills on this approachable dataset! 
+3_15,VinBigData Chest X-ray Abnormalities Detection,Automatically localize and classify thoracic abnormalities from chest radiographs 
+3_16,RANZCR CLiP - Catheter and Line Position Challenge,Classify the presence and correct placement of tubes on chest x-rays to save lives 
+3_17,Acea Smart Water Analytics ,"Can you help preserve ""blue gold"" using data to predict water availability? "
+3_18,Santa 2020 - The Candy Cane Contest,May your workdays be merry and bright 
+3_19,Jane Street Market Prediction,Test your model against future real market data 
+3_20,Cassava Leaf Disease Classification,Identify the type of disease present on a Cassava Leaf image 
+4_1,2020 Kaggle Machine Learning & Data Science Survey,The most comprehensive dataset available on the state of ML and data science  
+4_2,Rainforest Connection Species Audio Detection,Automate the detection of bird and frog species in a tropical soundscape 
+4_3,HuBMAP - Hacking the Kidney,Identify glomeruli in human kidney tissue images 
+4_4,NFL 1st and Future - Impact Detection,Detect helmet impacts in videos of NFL plays 
+4_5,"Rock, Paper, Scissors",Shoot! 
+4_6,NFL Big Data Bowl 2021,Help evaluate defensive performance on passing plays 
+4_7,CDP - Unlocking Climate Solutions,City-Business Collaboration for a Sustainable Future 
+4_8,INGV - Volcanic Eruption Prediction,Discover hidden precursors in geophysical data to help emergency response 
+4_9,Riiid Answer Correctness Prediction,Track knowledge states of 1M+ students in the wild 
+4_10,Google Research Football with Manchester City F.C.,Train agents to master the world's most popular sport 
+4_11,Halite by Two Sigma - Playground Edition,Collect the most halite during your match in space 
+4_12,OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction,Urgent need to bring the COVID-19 vaccine to mass production 
+4_13,RSNA STR Pulmonary Embolism Detection,Classify Pulmonary Embolism cases in chest CT scans 
+4_14,Hash Code Archive - Drone Delivery,Can you help coordinate the drone delivery supply chain? 
+4_15,Mechanisms of Action (MoA) Prediction,Can you improve the algorithm that classifies drugs based on their biological activity? 
+4_16,Conway's Reverse Game of Life 2020,Reverse the arrow of time in the Game of Life 
+4_17,I’m Something of a Painter Myself,Use GANs to create art - will you be the next Monet? 
+4_18,Lyft Motion Prediction for Autonomous Vehicles,Build motion prediction models for self-driving vehicles  
+4_19,"Contradictory, My Dear Watson",Detecting contradiction and entailment in multilingual text using TPUs 
+4_20,Google Landmark Recognition 2020,Label famous (and not-so-famous) landmarks in images 
+5_1,OSIC Pulmonary Fibrosis Progression,Predict lung function decline 
+5_2,Google Landmark Retrieval 2020,"Given an image, can you find all of the same landmarks in a dataset? "
+5_3,Petals to the Metal - Flower Classification on TPU,Getting Started with TPUs on Kaggle! 
+5_4,Cornell Birdcall Identification,Build tools for bird population monitoring 
+5_5,Halite by Two Sigma,Collect the most halite during your match in space 
+5_6,SIIM-ISIC Melanoma Classification,Identify melanoma in lesion images 
+5_7,TREC-COVID Information Retrieval,Build a pandemic document retrieval system 
+5_8,Open Images Instance Segmentation RVC 2020 edition,Outline segmentation masks of objects in images 
+5_9,Open Images Object Detection RVC 2020 edition,Detect objects in varied and complex images 
+5_10,COVID19 Global Forecasting (Week 5),Forecast daily COVID-19 spread in regions around world 
+5_11,Global Wheat Detection ,Can you help identify wheat heads using image analysis? 
+5_12,ALASKA2 Image Steganalysis,Detect secret data hidden within digital images 
+5_13,Hash Code Archive - Photo Slideshow Optimization,Optimizing a photo album from Hash Code 2019 
+5_14,TReNDS Neuroimaging,"Multiscanner normative age and assessments prediction with brain function, structure, and connectivity "
+5_15,Prostate cANcer graDe Assessment (PANDA) Challenge,Prostate cancer diagnosis using the Gleason grading system 
+5_16,COVID19 Global Forecasting (Week 4),Forecast daily COVID-19 spread in regions around world 
+5_17,COVID19 Global Forecasting (Week 3),Forecast daily COVID-19 spread in regions around world 
+5_18,iMet Collection 2020 - FGVC7,Recognize artwork attributes from The Metropolitan Museum of Art 
+5_19,COVID19 Global Forecasting (Week 2),Forecast daily COVID-19 spread in regions around world 
+5_20,Tweet Sentiment Extraction,Extract support phrases for sentiment labels 
+6_1,Jigsaw Multilingual Toxic Comment Classification,Use TPUs to identify toxicity comments across multiple languages 
+6_2,iMaterialist (Fashion) 2020 at FGVC7 ,Fine-grained segmentation task for fashion and apparel 
+6_3,COVID19 Global Forecasting (Week 1),Forecast daily COVID-19 spread in regions around world 
+6_4,COVID19 Local US-CA Forecasting (Week 1),"Forecast daily COVID-19 spread in California, USA "
+6_5,Plant Pathology 2020 - FGVC7,Identify the category of foliar diseases in apple trees 
+6_6,iWildCam 2020 - FGVC7,Categorize animals in the wild 
+6_7,Herbarium 2020 - FGVC7,Identify plant species from herbarium specimens. Data from New York Botanical Garden. 
+6_8,M5 Forecasting - Accuracy,Estimate the unit sales of Walmart retail goods 
+6_9,M5 Forecasting - Uncertainty, Estimate the uncertainty distribution of Walmart unit sales.   
+6_10,University of Liverpool - Ion Switching,Identify the number of channels open at each time point 
+6_11,Google Cloud & NCAA® March Madness Analytics,Uncover the madness of March Madness® 
+6_12,Google Cloud & NCAA® ML Competition 2020-NCAAM,Apply Machine Learning to NCAA® March Madness® 
+6_13,Google Cloud & NCAA® ML Competition 2020-NCAAW,Apply Machine Learning to NCAA® March Madness® 
+6_14,Abstraction and Reasoning Challenge,Create an AI capable of solving reasoning tasks it has never seen before 
+6_15,DS4G - Environmental Insights Explorer,Exploring alternatives for emissions factor calculations 
+6_16,Flower Classification with TPUs,"Use TPUs to classify 104 types of flowers
+ "
+6_17,Connect X,Connect your checkers in a row before your opponent! 
+6_18,Categorical Feature Encoding Challenge II,"Binary classification, with every feature a categorical (and interactions!) "
+6_19,Santa 2019 - Revenge of the Accountants,Oh what fun it is to revise . . . 
+6_20,Natural Language Processing with Disaster Tweets,Predict which Tweets are about real disasters and which ones are not 
+7_1,Bengali.AI Handwritten Grapheme Classification,Classify the components of handwritten Bengali 
+7_2,Deepfake Detection Challenge,Identify videos with facial or voice manipulations 
+7_3,Santa's Workshop Tour 2019,"In the notebook we can build a model, and pretend that it will optimize... "
+7_4,NFL 1st and Future - Analytics,Can you investigate the relationship between the playing surface and the injury and performance of NFL athletes? 
+7_5,Google QUEST Q&A Labeling,Improving automated understanding of complex question answer content 
+7_6,2019 Kaggle Machine Learning & Data Science Survey,The most comprehensive dataset available on the state of ML and data science 
+7_7,TensorFlow 2.0 Question Answering,Identify the answers to real user questions about Wikipedia page content 
+7_8,2019 Data Science Bowl,Uncover the factors to help measure how young children learn 
+7_9,Peking University/Baidu - Autonomous Driving,Can you predict vehicle angle in different settings? 
+7_10,ASHRAE - Great Energy Predictor III,How much energy will a building consume? 
+7_11,NFL Big Data Bowl,How many yards will an NFL player gain after receiving a handoff? 
+7_12,Kannada MNIST,MNIST like datatset for Kannada handwritten digits 
+7_13,RSNA Intracranial Hemorrhage Detection,Identify acute intracranial hemorrhage and its subtypes 
+7_14,BigQuery-Geotab Intersection Congestion,Can you predict wait times at major city intersections? 
+7_15,Lyft 3D Object Detection for Autonomous Vehicles,Can you advance the state of the art in 3D object detection?  
+7_16,Categorical Feature Encoding Challenge,"Binary classification, with every feature a categorical "
+7_17,Understanding Clouds from Satellite Images,Can you classify cloud structures from satellites?  
+7_18,Ciphertext Challenge III,BRBTvl0LNstxQLyxulCEEq1czSFje0Z6iajczo6ktGmitTE= 
+7_19,Severstal: Steel Defect Detection,Can you detect and classify defects in steel? 
+7_20,Kuzushiji Recognition,Opening the door to a thousand years of Japanese culture 
+8_1,IEEE-CIS Fraud Detection,Can you detect fraud from customer transactions? 
+8_2,Open Images 2019 - Instance Segmentation,Outline segmentation masks of objects in images 
+8_3,Generative Dog Images,Experiment with creating puppy pics 
+8_4,APTOS 2019 Blindness Detection,Detect diabetic retinopathy to stop blindness before it's too late  
+8_5,Recursion Cellular Image Classification,CellSignal: Disentangling biological signal from experimental noise in cellular images 
+8_6,The 3rd YouTube-8M Video Understanding Challenge,Temporal localization of topics within video 
+8_7,SIIM-ACR Pneumothorax Segmentation,Identify Pneumothorax disease in chest x-rays  
+8_8,Open Images 2019 - Object Detection,Detect objects in varied and complex images 
+8_9,Open Images 2019 - Visual Relationship,Detect pairs of objects in particular relationships 
+8_10,Predicting Molecular Properties,Can you measure the magnetic interactions between a pair of atoms? 
+8_11,Instant Gratification,A synchronous Kernels-only competition 
+8_12,Northeastern SMILE Lab - Recognizing Faces in the Wild,Can you determine if two individuals are related? 
+8_13,Data Science for Good: City of Los Angeles,Help the City of Los Angeles to structure and analyze its job descriptions 
+8_14,iMaterialist (Fashion) 2019 at FGVC6 ,Fine-grained segmentation task for fashion and apparel 
+8_15,Google Landmark Recognition 2019,Label famous (and not-so-famous) landmarks in images 
+8_16,Google Landmark Retrieval 2019,"Given an image, can you find all of the same landmarks in a dataset? "
+8_17,Freesound Audio Tagging 2019,Automatically recognize sounds and apply tags of varying natures 
+8_18,iNaturalist 2019 at FGVC6,Fine-grained classification spanning a thousand species 
+8_19,Jigsaw Unintended Bias in Toxicity Classification,Detect toxicity across a diverse range of conversations 
+8_20,iMet Collection 2019 - FGVC6,Recognize artwork attributes from The Metropolitan Museum of Art 
+9_1,Ciphertext Challenge II,553398 418126 467884 411 374106 551004 356535 539549 487091 290502 121468 556912 469347 515719 201909 101 
+9_2,iWildCam 2019 - FGVC6,Categorize animals in the wild 
+9_3,CareerCon 2019 - Help Navigate Robots ,Compete to get your resume in front of our sponsors 
+9_4,Aerial Cactus Identification,Determine whether an image contains a columnar cactus 
+9_5,Data Science for Good: CareerVillage.org,Match career advice questions with professionals in the field 
+9_6,Google Cloud & NCAA® ML Competition 2019-Men's,Apply Machine Learning to NCAA® March Madness® 
+9_7,Google Cloud & NCAA® ML Competition 2019-Women's,Apply Machine Learning to NCAA® March Madness® 
+9_8,Santander Customer Transaction Prediction,Can you identify who will make a transaction? 
+9_9,Don't Overfit! II,A Fistful of Samples 
+9_10,TMDB Box Office Prediction,Can you predict a movie's worldwide box office revenue? 
+9_11,Gendered Pronoun Resolution,Pair pronouns to their correct entities 
+9_12,LANL Earthquake Prediction,Can you predict upcoming laboratory earthquakes? 
+9_13,PetFinder.my Adoption Prediction,How cute is that doggy in the shelter? 
+9_14,VSB Power Line Fault Detection,Can you detect faults in above-ground electrical lines? 
+9_15,Reducing Commercial Aviation Fatalities,Can you tell when a pilot is heading for trouble? 
+9_16,20 Newsgroups Ciphertext Challenge,V8g{9827$A${?^*?}$$v7*.yig$w9.8} 
+9_17,Microsoft Malware Prediction,Can you predict if a machine will soon be hit with malware? 
+9_18,NFL Punt Analytics Competition,Analyze NFL game data and suggest rules to improve player safety during punt plays 
+9_19,Humpback Whale Identification,Can you identify a whale by its tail? 
+9_20,Elo Merchant Category Recommendation,Help understand customer loyalty 
+10_1,Don't call me turkey!,Thanksgiving Edition: Find the turkey in the sound bite 
+10_2,Traveling Santa 2018 - Prime Paths,"But does your code recall, the most efficient route of all? "
+10_3,Histopathologic Cancer Detection,Identify metastatic tissue in histopathologic scans of lymph node sections 
+10_4,Quora Insincere Questions Classification,Detect toxic content to improve online conversations 
+10_5,PUBG Finish Placement Prediction (Kernels Only),Can you predict the battle royale finish of PUBG Players? 
+10_6,Human Protein Atlas Image Classification,Classify subcellular protein patterns in human cells 
+10_7,PLAsTiCC Astronomical Classification,Can you help make sense of the Universe? 
+10_8,"Quick, Draw! Doodle Recognition Challenge",How accurately can you identify a doodle? 
+10_9,Two Sigma: Using News to Predict Stock Movements,Use news analytics to predict stock price performance 
+10_10,Google Analytics Customer Revenue Prediction,Predict how much GStore customers will spend 
+10_11,Inclusive Images Challenge,Stress test image classifiers across new geographic distributions 
+10_12,RSNA Pneumonia Detection Challenge,Can you build an algorithm that automatically detects potential pneumonia cases? 
+10_13,Airbus Ship Detection Challenge,Find ships on satellite images as quickly as possible 
+10_14,New York City Taxi Fare Prediction,Can you predict a rider's taxi fare? 
+10_15,TGS Salt Identification Challenge,Segment salt deposits beneath the Earth's surface 
+10_16,Costa Rican Household Poverty Level Prediction,Can you identify which households have the highest need for social welfare assistance? 
+10_17,Google AI Open Images - Visual Relationship Track,Detect pairs of objects in particular relationships. 
+10_18,Google AI Open Images - Object Detection Track,Detect objects in varied and complex images. 
+10_19,Store Item Demand Forecasting Challenge,Predict 3 months of item sales at different stores  
+10_20,Flavours of Physics: Finding τ  →  μμμ (Kernels Only),Identify a rare decay phenomenon 
+11_1,What's Cooking? (Kernels Only),Use recipe ingredients to categorize the cuisine 
+11_2,Movie Review Sentiment Analysis (Kernels Only),Classify the sentiment of sentences from the Rotten Tomatoes dataset 
+11_3,Forest Cover Type (Kernels Only),Use cartographic variables to classify forest categories 
+11_4,Santander Value Prediction Challenge,Predict the value of transactions for potential customers. 
+11_5,The 2nd YouTube-8M Video Understanding Challenge,Can you create a constrained-size model to predict video labels? 
+11_6,Home Credit Default Risk,Can you predict how capable each applicant is of repaying a loan? 
+11_7,TrackML Particle Tracking Challenge,High Energy Physics particle tracking in CERN detectors 
+11_8,Avito Demand Prediction Challenge,Predict demand for an online classified ad 
+11_9,CVPR 2018 WAD Video Segmentation Challenge,Can you segment each objects within image frames captured by vehicles? 
+11_10,iMaterialist Challenge (Fashion) at FGVC5,Image classification of fashion products. 
+11_11,Freesound General-Purpose Audio Tagging Challenge,Can you automatically recognize sounds from a wide range of real-world environments? 
+11_12,iMaterialist Challenge (Furniture) at FGVC5,Image Classification of Furniture & Home Goods. 
+11_13,TalkingData AdTracking Fraud Detection Challenge,Can you detect fraudulent click traffic for mobile app ads? 
+11_14,DonorsChoose.org Application Screening,Predict whether teachers' project proposals are accepted 
+11_15, iNaturalist Challenge at FGVC5,"Long tailed classification challenge spanning 8,000 species. "
+11_16,Google Cloud & NCAA® ML Competition 2018-Women's,Apply machine learning to NCAA® March Madness® 
+11_17,Google Cloud & NCAA® ML Competition 2018-Men's,Apply Machine Learning to NCAA® March Madness® 
+11_18,Predict Future Sales,"Final project for ""How to win a data science competition"" Coursera course "
+11_19,Google Landmark Retrieval Challenge,"Given an image, can you find all of the same landmarks in a dataset? "
+11_20,Google Landmark Recognition Challenge,Label famous (and not-so-famous) landmarks in images 
+12_1,2018 Data Science Bowl ,Find the nuclei in divergent images to advance medical discovery 
+12_2,Humpback Whale Identification Challenge,Can you identify a whale by the picture of its fluke? 
+12_3,ImageNet Object Localization Challenge,Identify the objects in images 
+12_4,IEEE's Signal Processing Society - Camera Model Identification,Identify from which camera an image was taken 
+12_5,Toxic Comment Classification Challenge,Identify and classify toxic online comments 
+12_6,Nomad2018 Predicting Transparent Conductors,Predict the key properties of novel transparent semiconductors 
+12_7,Santa Gift Matching Challenge,Down through the chimney with lots of toys... 
+12_8,Recruit Restaurant Visitor Forecasting,Predict how many future visitors a restaurant will receive 
+12_9,Plant Seedlings Classification,Determine the species of a seedling from an image 
+12_10,Mercari Price Suggestion Challenge,Can you automatically suggest product prices to online sellers? 
+12_11,TensorFlow Speech Recognition Challenge,Can you build an algorithm that understands simple speech commands? 
+12_12,Spooky Author Identification,Share code and discuss insights to identify horror authors from their writings 
+12_13,Statoil/C-CORE Iceberg Classifier Challenge,"Ship or iceberg, can you decide from space? "
+12_14,Corporación Favorita Grocery Sales Forecasting,Can you accurately predict sales for a large grocery chain? 
+12_15,Porto Seguro’s Safe Driver Prediction,Predict if a driver will file an insurance claim next year. 
+12_16,Dog Breed Identification,Determine the breed of a dog in an image 
+12_17,WSDM - KKBox's Music Recommendation Challenge,Can you build the best music recommendation system? 
+12_18,WSDM - KKBox's Churn Prediction Challenge,Can you predict when subscribers will churn? 
+12_19,Cdiscount’s Image Classification Challenge,Categorize e-commerce photos 
+12_20,Text Normalization Challenge - Russian Language,Convert Russian text from written expressions into spoken forms 
+13_1,Text Normalization Challenge - English Language,Convert English text from written expressions into spoken forms 
+13_2,Carvana Image Masking Challenge,Automatically identify the boundaries of the car in an image 
+13_3,New York City Taxi Trip Duration,Share code and data to improve ride time predictions 
+13_4,Web Traffic Time Series Forecasting,Forecast future traffic to Wikipedia pages 
+13_5,NIPS 2017: Defense Against Adversarial Attack,Create an image classifier that is robust to adversarial attacks 
+13_6,NIPS 2017: Targeted Adversarial Attack,Develop an adversarial attack that causes image classifiers to predict a specific target class 
+13_7,NIPS 2017: Non-targeted Adversarial Attack,Imperceptibly transform images in ways that fool classification models 
+13_8,Personalized Medicine: Redefining Cancer Treatment,Predict the effect of Genetic Variants to enable Personalized Medicine 
+13_9,Passenger Screening Algorithm Challenge,Improve the accuracy of the Department of Homeland Security's threat recognition algorithms 
+13_10,iMaterialist Challenge at FGVC 2017,Can you assign accurate description labels to images of apparel products? 
+13_11,iNaturalist Challenge at FGVC 2017,"Fine-grained classification challenge spanning 5,000 species. "
+13_12,Mercedes-Benz Greener Manufacturing,Can you cut the time a Mercedes-Benz spends on the test bench? 
+13_13,Zillow Prize: Zillow’s Home Value Prediction (Zestimate),Can you improve the algorithm that changed the world of real estate? 
+13_14,Instacart Market Basket Analysis,Which products will an Instacart consumer purchase again? 
+13_15,Invasive Species Monitoring,Identify images of invasive hydrangea 
+13_16,Sberbank Russian Housing Market,Can you predict realty price fluctuations in Russia’s volatile economy? 
+13_17,Planet: Understanding the Amazon from Space,Use satellite data to track the human footprint in the Amazon rainforest 
+13_18,NOAA Fisheries Steller Sea Lion Population Count,How many sea lions do you see? 
+13_19,Quora Question Pairs,Can you identify question pairs that have the same intent? 
+13_20,Intel & MobileODT Cervical Cancer Screening,Which cancer treatment will be most effective? 
+14_1,Google Cloud & YouTube-8M Video Understanding Challenge,Can you produce the best video tag predictions? 
+14_2,Two Sigma Connect: Rental Listing Inquiries,How much interest will a new rental listing on RentHop receive? 
+14_3,March Machine Learning Mania 2017,Predict the 2017 NCAA Basketball Tournament 
+14_4,Data Science Bowl 2017,Can you improve lung cancer detection? 
+14_5,Santa's Uncertain Bags,"♫ Bells are ringing, children singing, all is merry and bright. Santa's elves made a big mistake, now he needs your help tonight ♫ "
+14_6,Dstl Satellite Imagery Feature Detection,Can you train an eye in the sky? 
+14_7,Two Sigma Financial Modeling Challenge,Can you uncover predictive value in an uncertain world? 
+14_8,The Nature Conservancy Fisheries Monitoring,Can you detect and classify species of fish? 
+14_9,"Ghouls, Goblins, and Ghosts... Boo! ",Can you classify monsters haunting Kaggle? 
+14_10,Transfer Learning on Stack Exchange Tags,Predict tags from models trained on unrelated topics 
+14_11,Santander Product Recommendation,Can you pair products with people? 
+14_12,Allstate Claims Severity,How severe is an insurance claim? 
+14_13,Outbrain Click Prediction,Can you predict which recommended content each user will click? 
+14_14,Dogs vs. Cats Redux: Kernels Edition,Distinguish images of dogs from cats 
+14_15,Melbourne University AES/MathWorks/NIH Seizure Prediction,Predict seizures in long-term human intracranial EEG recordings  
+14_16,House Prices - Advanced Regression Techniques,"Predict sales prices and practice feature engineering, RFs, and gradient boosting "
+14_17,Leaf Classification,Can you see the random forest for the leaves? 
+14_18,Bosch Production Line Performance,Reduce manufacturing failures 
+14_19,Predicting Red Hat Business Value,Classify customer potential 
+14_20,TalkingData Mobile User Demographics,Get to know millions of mobile device users 
+15_1,Grupo Bimbo Inventory Demand,Maximize sales and minimize returns of bakery goods 
+15_2,Integer Sequence Learning,"1, 2, 3, 4, 5, 7?! "
+15_3,Ultrasound Nerve Segmentation,Identify nerve structures in ultrasound images of the neck 
+15_4,Facebook V: Predicting Check Ins,Identify the correct place for check ins 
+15_5,Avito Duplicate Ads Detection,Can you detect duplicitous duplicate ads? 
+15_6,Painter by Numbers,Does every painter leave a fingerprint?  
+15_7,Draper Satellite Image Chronology,Can you put order to space and time?  
+15_8,Expedia Hotel Recommendations,Which hotel type will an Expedia customer book? 
+15_9,Kobe Bryant Shot Selection,Which shots did Kobe sink? 
+15_10,State Farm Distracted Driver Detection,Can computer vision spot distracted drivers? 
+15_11,Shelter Animal Outcomes,Help improve outcomes for shelter animals 
+15_12,Santander Customer Satisfaction,Which customers are happy customers? 
+15_13,March Machine Learning Mania 2016,Predict the 2016 NCAA Basketball Tournament 
+15_14,BNP Paribas Cardif Claims Management,Can you accelerate BNP Paribas Cardif's claims management process? 
+15_15,Home Depot Product Search Relevance,Predict the relevance of search results on homedepot.com 
+15_16,Yelp Restaurant Photo Classification,Predict attribute labels for restaurants using user-submitted photos 
+15_17,Second Annual Data Science Bowl,Transforming How We Diagnose Heart Disease 
+15_18,Cervical Cancer Screening,Help prevent cervical cancer by identifying at-risk populations 
+15_19,Santa's Stolen Sleigh,"♫ Alarm bells ring, are you listening? Santa's sleigh has gone missing ♫ "
+15_20,Airbnb New User Bookings,Where will a new guest book their first travel experience? 
+16_1,Telstra Network Disruptions,Predict service faults on Australia's largest telecommunications network  
+16_2,Prudential Life Insurance Assessment,Can you make buying life insurance easier? 
+16_3,Homesite Quote Conversion,Which customers will purchase a quoted insurance plan? 
+16_4,The Winton Stock Market Challenge,Join a multi-disciplinary team of research scientists 
+16_5,Walmart Recruiting: Trip Type Classification,Use market basket analysis to classify shopping trips 
+16_6,The Allen AI Science Challenge,Is your model smarter than an 8th grader? 
+16_7,Rossmann Store Sales,"Forecast sales using store, promotion, and competitor data "
+16_8,How Much Did It Rain? II,Predict hourly rainfall using data from polarimetric radars 
+16_9,What's Cooking?,Use recipe ingredients to categorize the cuisine 
+16_10,Right Whale Recognition,Identify endangered right whales in aerial photographs  
+16_11,Western Australia Rental Prices ,Predict rental prices for properties across Western Australia 
+16_12,Springleaf Marketing Response,Determine whether to send a direct mail piece to a customer  
+16_13,Truly Native? ,Predict which web pages served by StumbleUpon are sponsored 
+16_14,Flavours of Physics: Finding τ  →  μμμ,Identify a rare decay phenomenon 
+16_15,Coupon Purchase Prediction,Predict which coupons a customer will buy 
+16_16,Introducing Kaggle Scripts,Your code deserves better 
+16_17,Liberty Mutual Group: Property Inspection Prediction,Quantify property hazards before time of inspection 
+16_18,Machinery Tube Pricing,Model quoted prices for industrial tube assemblies 
+16_19,Grasp-and-Lift EEG Detection,Identify hand motions from EEG recordings 
+16_20,San Francisco Crime Classification,Predict the category of crimes that occurred in the city by the bay  
+17_1,Avito Context Ad Clicks,Predict if context ads will earn a user's click  
+17_2,Denoising Dirty Documents,Remove noise from printed text 
+17_3,ICDM 2015: Drawbridge Cross-Device Connections,Identify individual users across their digital devices 
+17_4,Crowdflower Search Results Relevance,Predict the relevance of search results from eCommerce sites 
+17_5,Facebook Recruiting IV: Human or Robot?,Predict if an online bid is made by a machine or a human 
+17_6,ECML/PKDD 15: Taxi Trip Time Prediction (II),Predict the total travel time of taxi trips based on their initial partial trajectories 
+17_7,West Nile Virus Prediction,Predict West Nile virus in mosquitos across the city of Chicago 
+17_8,ECML/PKDD 15: Taxi Trajectory Prediction (I),Predict the destination of taxi trips based on initial partial trajectories 
+17_9,15.071x - The Analytics Edge (Spring 2015),Test your analytics skills by predicting which New York Times blog articles will be the most popular 
+17_10,Predict Closed Questions on Stack Overflow,Predict which new questions asked on Stack Overflow will be closed 
+17_11,15.071x - The Analytics Edge (Spring 2015),Test your analytics skills by predicting which New York Times blog articles will be the most popular. 
+17_12,Walmart Recruiting II: Sales in Stormy Weather,Predict how sales of weather-sensitive products are affected by snow and rain 
+17_13,Restaurant Revenue Prediction,Predict annual restaurant sales based on objective measurements 
+17_14,Otto Group Product Classification Challenge,Classify products into the correct category 
+17_15,Diabetic Retinopathy Detection,Identify signs of diabetic retinopathy in eye images 
+17_16,Microsoft Malware Classification Challenge (BIG 2015),Classify malware into families based on file content and characteristics 
+17_17,March Machine Learning Mania 2015,Predict the 2015 NCAA Basketball Tournament 
+17_18,How Much Did It Rain?,Predict probabilistic distribution of hourly rain given polarimetric radar measurements 
+17_19,National Data Science Bowl,"Predict ocean health, one plankton at a time "
+17_20,Driver Telematics Analysis,Use telematic data to identify a driver signature 
+18_1,Bag of Words Meets Bags of Popcorn,Use Google's Word2Vec for movie reviews 
+18_2,Poker Rule Induction,Determine the poker hand of five playing cards 
+18_3,Helping Santa's Helpers,"Jingle bells, Santa tells ...  "
+18_4,BCI Challenge @ NER 2015,A spell on you if you cannot detect errors! 
+18_5,Click-Through Rate Prediction,Predict whether a mobile ad will be clicked 
+18_6,Finding Elo,Predict a chess player's FIDE Elo rating from one game 
+18_7,Tradeshift Text Classification,Classify text blocks in documents 
+18_8,Africa Soil Property Prediction Challenge ,Predict physical and chemical properties of soil using spectral measurements 
+18_9,American Epilepsy Society Seizure Prediction Challenge,Predict seizures in intracranial EEG recordings 
+18_10,First Steps With Julia,Use Julia to identify characters from Google Street View images 
+18_11,Liberty Mutual Group - Fire Peril Loss Cost,Predict expected fire losses for insurance policies 
+18_12,Display Advertising Challenge,Predict click-through rates on display ads 
+18_13,The Hunt for Prohibited Content,Predict which ads contain illicit content 
+18_14,MLSP 2014 Schizophrenia Classification Challenge,Diagnose schizophrenia using multimodal features from MRI scans 
+18_15,Greek Media Monitoring Multilabel Classification (WISE 2014),Multi-label classification of printed media articles to topics 
+18_16,Random Acts of Pizza,Predicting altruism through free pizza 
+18_17,Bike Sharing Demand,Forecast use of a city bikeshare system 
+18_18,UPenn and Mayo Clinic's Seizure Detection Challenge,Detect seizures in intracranial EEG recordings 
+18_19,Forest Cover Type Prediction,Use cartographic variables to classify forest categories 
+18_20,KDD Cup 2014 - Predicting Excitement at DonorsChoose.org,Predict funding requests that deserve an A+ 
+19_1,Higgs Boson Machine Learning Challenge,Use the ATLAS experiment to identify the Higgs boson 
+19_2,Billion Word Imputation,Find and impute missing words in the billion word corpus 
+19_3,Learning Social Circles in Networks,Model friend memberships to multiple circles 
+19_4,DecMeg2014 - Decoding the Human Brain,Predict visual stimuli from MEG recordings of human brain activity 
+19_5,The Analytics Edge (15.071x),Learn what predicts happiness by using informal polling questions. 
+19_6,Acquire Valued Shoppers Challenge,Predict which shoppers will become repeat buyers 
+19_7,Risky Business,Predict the risk of customer credit default 
+19_8,The Random Number Grand Challenge,Decode a sequence of pseudorandom numbers 
+19_9,Sentiment Analysis on Movie Reviews,Classify the sentiment of sentences from the Rotten Tomatoes dataset 
+19_10,Walmart Recruiting - Store Sales Forecasting,Use historical markdown data to predict store sales 
+19_11,Allstate Purchase Prediction Challenge,Predict a purchased policy based on transaction history 
+19_12,CONNECTOMICS,Reconstruct the wiring between neurons from fluorescence imaging of neural activity 
+19_13,PAKDD 2014 - ASUS Malfunctional Components Prediction,Predict malfunctional components of ASUS notebooks 
+19_14,Large Scale Hierarchical Text Classification,"Classify Wikipedia documents into one of 325,056 categories "
+19_15,"Flight Quest 2: Flight Optimization, Final Phase",Final Phase of Flight Quest 2 
+19_16,Loan Default Prediction - Imperial College London,Constructing an optimal portfolio of loans 
+19_17,March Machine Learning Mania,Tip off college basketball by predicting the 2014 NCAA Tournament 
+19_18,Galaxy Zoo - The Galaxy Challenge,Classify the morphologies of distant galaxies in our Universe 
+19_19,Flu Forecasting,"Predict when, where and how strong the flu will be "
+19_20,Packing Santa's Sleigh,"He's making a list, checking it twice; to fill up his sleigh, he needs your advice "
+20_1,Boston Data Festival Hackathon,Can you make a better prediction than a monkey with a dart? 
+20_2,As the World Churns,Predict which customers will leave an insurance company in the next 12 months. 
+20_3,CIFAR-10 - Object Recognition in Images,"Identify the subject of 60,000 labeled images "
+20_4,Multi-label Bird Species Classification - NIPS 2013,Identify which of 87 classes of birds and amphibians are present into 1000 continuous wild sound recordings 
+20_5,Conway's Reverse Game of Life,Reverse the arrow of time in the Game of Life 
+20_6,Personalized Web Search Challenge,Re-rank web documents using personal preferences 
+20_7,See Click Predict Fix,Predict which 311 issues are most important to citizens 
+20_8,See Click Predict Fix - Hackathon,Predict which 311 issues are most important to citizens 
+20_9,Partly Sunny with a Chance of Hashtags,What can a #machine learn from tweets about the #weather? 
+20_10,"Flight Quest 2: Flight Optimization, Main Phase",Optimize flight routes based on current weather and traffic. 
+20_11,Dogs vs. Cats,Create an algorithm to distinguish dogs from cats 
+20_12,Personalize Expedia Hotel Searches - ICDM 2013,Learning to rank hotels to maximize purchases 
+20_13,Facebook Recruiting III - Keyword Extraction,Identify keywords and tags from millions of text questions 
+20_14,StumbleUpon Evergreen Classification Challenge,Build a classifier to categorize webpages as evergreen or non-evergreen 
+20_15,The Big Data Combine Engineered by BattleFin,Predict short term movements in stock prices using news and sentiment data provided by RavenPack  
+20_16,"Flight Quest 2: Flight Optimization, Milestone Phase",Optimize flight routes based on current weather and traffic. 
+20_17,MasterCard - Data Cleansing Competition,Improve the quality of information within transaction data 
+20_18,Accelerometer Biometric Competition,Recognize users of mobile devices from accelerometer data 
+20_19,AMS 2013-2014 Solar Energy Prediction Contest,Forecast daily solar energy with an ensemble of weather models 
+20_20,Belkin Energy Disaggregation Competition,Disaggregate household energy consumption into individual appliances 
+21_1,Multi-modal Gesture Recognition,Recognize gesture sequences in video and depth data from Kinect 
+21_2,MLSP 2013 Bird Classification Challenge,"Predict the set of bird species present in an audio recording, collected in field conditions. "
+21_3,Amazon.com - Employee Access Challenge,"Predict an employee's access needs, given his/her job role "
+21_4,dunnhumby & hack/reduce Product Launch Challenge,The success or failure of a new product launch is often evident within the first few weeks of sales. Can you predict a product's destiny?  
+21_5,The ICML 2013 Whale Challenge - Right Whale Redux,Develop recognition solutions to detect and classify right whales for BIG data mining and exploration studies 
+21_6,The ICML 2013 Bird Challenge,Identify bird species from continuous audio recordings 
+21_7,Facial Keypoints Detection,Detect the location of keypoints on face images 
+21_8,RecSys2013: Yelp Business Rating Prediction,RecSys Challenge 2013: Yelp business rating prediction 
+21_9,KDD Cup 2013 - Author Disambiguation Challenge (Track 2),Identify which authors correspond to the same person 
+21_10,KDD Cup 2013 - Author-Paper Identification Challenge (Track 1),Determine whether an author has written a given paper 
+21_11,Influencers in Social Networks,Predict which people are influential in a social network 
+21_12,Challenges in Representation Learning: The Black Box Learning Challenge,"Competitors train a classifier on a dataset that is not human readable, without knowledge of what the data consists of. "
+21_13,Challenges in Representation Learning: Multi-modal Learning,The multi-modal learning challenge 
+21_14,Challenges in Representation Learning: Facial Expression Recognition Challenge,Learn facial expressions from an image 
+21_15,Cause-effect pairs,"Given samples from a pair of variables A, B, find whether A is a cause of B. "
+21_16,Yelp Recruiting Competition,"How many ""useful"" votes will a Yelp review receive? Show off your skills to land an interview for a position on a Yelp data mining team! "
+21_17,ICDAR2013 - Handwriting Stroke Recovery from Offline Data,Predict the trajectory of a handwritten signature 
+21_18,Data Science London + Scikit-learn,Scikit-learn is an open-source machine learning library for Python. Give it a try here! 
+21_19,ICDAR2013 - Gender Prediction from Handwriting,Predict if a handwritten document has been produced by a male or a female writer 
+21_20,Just the Basics - Strata 2013 After-party,"Live from Santa Clara, CA "
+22_1,Just the Basics - Strata 2013,"Live from Santa Clara, CA - Core Data Science Skills with Kaggle’s Top Competitors "
+22_2,Job Salary Prediction,Predict the salary of any UK job ad based on its contents 
+22_3,The Marinexplore and Cornell University Whale Detection Challenge,"Create an algorithm to detect North Atlantic right whale calls from audio recordings, prevent collisions with shipping traffic "
+22_4,Predicting Parkinson's Disease Progression with Smartphone Data,Can we objectively measure the symptoms of Parkinson’s disease with a smartphone? We have the data to find out! 
+22_5,Blue Book for Bulldozers,"Predict the auction sale price for a piece of heavy equipment to create a ""blue book"" for bulldozers. "
+22_6,Event Recommendation Engine Challenge,"Predict what events our users will be interested in based on user actions, event metadata, and demographic information. "
+22_7,Leaping Leaderboard Leapfrogs,Provide creative visualizations of the Kaggle leaderboard  
+22_8,Traveling Santa Problem,Solve ye olde traveling salesman problem to help Santa Claus deliver his presents 
+22_9,Visualize the State of Public Education in Colorado,"Using 3 years of school grading data supplied by the Colorado Department of Education and R-Squared Research, visually uncover trends in the Colorado public school system. "
+22_10,Prescription Volume Prediction,Predict future prescription volume 
+22_11,GE Flight Quest,Think you can change the future of flight? 
+22_12,GE Hospital Quest,Think it’s possible to make hospital visits hassle-free? GE does. 
+22_13,Facebook II - Mapping the Internet,Round II of the Facebook Recruiting Competition.  
+22_14,Observing Dark Worlds,Can you find the Dark Matter that dominates our Universe? Winton Capital offers you the chance to unlock the secrets of dark worlds. 
+22_15,Titanic - Machine Learning from Disaster,Start here! Predict survival on the Titanic and get familiar with ML basics 
+22_16,Detecting Insults in Social Commentary,Predict whether a comment posted during a public discussion is considered insulting to one of the participants. 
+22_17,Follow the Money: Investigative Reporting Prospect,"Find hidden patterns, connections, and ultimately compelling stories in a treasure trove of data about US federal campaign contributions "
+22_18,Will I Stay or Will I Go?,Predict which of our current customers will stay insured with us for an entire policy term.   
+22_19,Global Energy Forecasting Competition 2012 - Wind Forecasting,A wind power forecasting problem: predicting hourly power generation up to 48 hours ahead at 7 wind farms 
+22_20,Global Energy Forecasting Competition 2012 - Load Forecasting,A hierarchical load forecasting problem: backcasting and forecasting hourly loads (in kW) for a US utility with 20 zones. 
+23_1,U.S. Census Return Rate Challenge,Predict census mail return rates. 
+23_2,Predict Closed Questions on Stack Overflow,Predict which new questions asked on Stack Overflow will be closed 
+23_3,Harvard Business Review 'Vision Statement' Prospect,Your Analysis and/or Visualization featured in the Harvard Business Review 
+23_4,Data Mining Hackathon on (20 mb) Best Buy mobile web site - ACM SF Bay Area Chapter,Getting Started - Predict which Xbox game a visitor will be most interested in based on their search query.  (20 MB) 
+23_5,Data Mining Hackathon on BIG DATA (7GB) Best Buy mobile web site,Predict which BestBuy product a mobile web visitor will be most interested in based on their search query or behavior over 2 years (7 GB). 
+23_6,Merck Molecular Activity Challenge,Help develop safe and effective medicines by predicting molecular activity. 
+23_7,Job Recommendation Challenge,Predict which jobs users will apply to 
+23_8,Digit Recognizer,Learn computer vision fundamentals with the famous MNIST data 
+23_9,EMI Music Data Science Hackathon - July 21st - 24 hours,Can you predict if a listener will love a new song? 
+23_10,Raising Money to Fund an Organizational Mission,Help worthy organizations more efficiently target and recruit loyal donors to support their causes.  
+23_11,Practice Fusion Diabetes Classification,Identify patients diagnosed with Type 2 Diabetes 
+23_12,CPROD1: Consumer PRODucts contest #1,Identify product mentions within a largely user-generated web-based corpus and disambiguate the mentions against a large product catalog. 
+23_13,The Hewlett Foundation: Short Answer Scoring,Develop a scoring algorithm for student-written short-answer responses. 
+23_14,GigaOM WordPress Challenge: Splunk Innovation Prospect,Predict which blog posts someone will like. 
+23_15,EMC Israel Data Science Challenge,Match source code files to the open source code project 
+23_16,Practice Fusion Analyze This! 2012 - Open Challenge,"Start digging into electronic health records and submit your creative, insightful, and visually striking analyses. "
+23_17,Practice Fusion Analyze This! 2012 - Prediction Challenge,"Start digging into electronic health records and submit your ideas for the most promising, impactful or interesting predictive modeling competitions "
+23_18,Facebook Recruiting Competition,"Show them your talent, not just your resume. "
+23_19,Psychopathy Prediction Based on Twitter Usage,Identify people who have a high degree of Psychopathy based on Twitter usage. 
+23_20,Personality Prediction Based on Twitter Stream,Identify the best performing model(s) to predict personality traits based on Twitter usage 
+24_1,CHALEARN Gesture Challenge 2,Develop a Gesture Recognizer for Microsoft Kinect (TM) 
+24_2,Online Product Sales,Predict the online sales of a consumer product based on a data set of product features. 
+24_3,EMC Data Science Global Hackathon (Air Quality Prediction),Build a local early warning systems to accurately predict dangerous levels of air pollutants on an hourly basis. 
+24_4,Million Song Dataset Challenge,Predict which songs a user will listen to. 
+24_5,Eye Movements Verification and Identification Competition,Determine how people may be identified based on their eye movement characteristic. 
+24_6,Predicting a Biological Response,Predict a biological response of molecules from their chemical properties 
+24_7,ICFHR 2012 - Arabic Writer Identification,Identify which writer wrote which documents. 
+24_8,"KDD Cup 2012, Track 2",Predict the click-through rate of ads given the query and user information. 
+24_9,"KDD Cup 2012, Track 1",Predict which users (or information sources) one user might follow in Tencent Weibo. 
+24_10,The Hewlett Foundation: Automated Essay Scoring,Develop an automated scoring algorithm for student-written essays. 
+24_11,Benchmark Bond Trade Price Challenge,Develop models to accurately predict the trade price of a bond. 
+24_12,Getting Started,Create a forum for New Users 
+24_13,CHALEARN Gesture Challenge,Develop a Gesture Recognizer for Microsoft Kinect (TM) 
+24_14,What Do You Know?,Improve the state of the art in student evaluation by predicting whether a student will answer the next test question correctly. 
+24_15,Algorithmic Trading Challenge,Develop new models to accurately predict the market response to large trades. 
+24_16,Photo Quality Prediction,"Given anonymized information on thousands of photo albums, predict whether a human evaluator would mark them as 'good'. "
+24_17,Don't Get Kicked!,Predict if a car purchased at auction is a lemon 
+24_18,Semi-Supervised Feature Learning,There's been a lot of recent work done in unsupervised feature learning for classification and there are a ton of older methods that also work well. The purpose of this competition is to find out which of these methods work best on relatively large-scale high dimensional learning tasks. 
+24_19,Give Me Some Credit,Improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years.   
+24_20,dunnhumby's Shopper Challenge,"Going grocery shopping, we all have to do it, some even enjoy it, but can you predict it? dunnhumby is looking to build a model to better predict when supermarket shoppers will next visit the store and how much they will spend.  "
+25_1,Allstate Claim Prediction Challenge,A key part of insurance is charging each customer the appropriate price for the risk they represent. 
+25_2,Wikipedia's Participation Challenge,This competition challenges data-mining experts to build a predictive model that predicts the number of edits an editor will make five months from the end date of the training dataset.  
+25_3,Mapping Dark Matter,Measure the small distortion in galaxy images caused by dark matter 
+25_4,Heritage Health Prize,Identify patients who will be admitted to a hospital within the next year using historical claims data. (Enter by 06:59:59 UTC Oct 4 2012)  
+25_5,Don't Overfit!,"With nearly as many variables as training cases, what are the best techniques to avoid disaster?  "
+25_6,ICDAR 2011 - Arabic Writer Identification,This competition require participants to develop an algorithm to identify who wrote which documents. The winner will be honored at a special session of the ICDAR 2011 conference.  
+25_7,Deloitte/FIDE Chess Rating Challenge,"This contest, sponsored by professional services firm Deloitte, will find the most accurate system to predict chess outcomes, and FIDE will also bring a top finisher to Athens to present their system "
+25_8,Stay Alert! The Ford Challenge,"Driving while not alert can be deadly. The objective is to design a classifier that will detect whether the driver is alert or not alert, employing data that are acquired while driving. "
+25_9,Predict Grant Applications,This task requires participants to predict the outcome of grant applications for the University of Melbourne.  
+25_10,RTA Freeway Travel Time Prediction,This competition requires participants to predict travel time on Sydney's M4 freeway from past travel time observations. 
+25_11,IJCNN Social Network Challenge ,This competition requires participants to predict edges in an online social network. The winner will receive free registration and the opportunity to present their solution at IJCNN 2011. 
+25_12,R Package Recommendation Engine,The aim of this competition is to develop a recommendation engine for R libraries (or packages). (R is opensource statistics software.) 
+25_13,Tourism Forecasting Part Two,Part two requires competitors to predict 793 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting. 
+25_14,Tourism Forecasting Part One,Part one requires competitors to predict 518 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting. 
+25_15,Chess ratings - Elo versus the Rest of the World,This competition aims to discover whether other approaches can predict the outcome of chess games more accurately than the workhorse Elo rating system. 
+25_16,INFORMS Data Mining Contest 2010,The goal of this contest is to predict short term movements in stock prices. The winners of this contest will be honoured of the INFORMS Annual Meeting in Austin-Texas (November 7-10). 
+25_17,World Cup 2010 - Confidence Challenge,The Confidence Challenge requires competitors to assign a level of confidence to their World Cup predictions.  
+25_18,World Cup 2010 - Take on the Quants,Quants at Goldman Sachs and JP Morgan have modeled the likely outcomes of the 2010 World Cup. Can you do better? 
+25_19,Predict HIV Progression,"This contest requires competitors to predict the likelihood that an HIV patient's infection will become less severe, given a small dataset and limited clinical information.  "
+25_20,Forecast Eurovision Voting ,"This competition requires contestants to forecast the voting for this year's Eurovision Song Contest in Norway on May 25th, 27th and 29th.  "
